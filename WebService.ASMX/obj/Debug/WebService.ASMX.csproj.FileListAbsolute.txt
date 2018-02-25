@@ -1,0 +1,11 @@
+C:\Users\Awesome\source\repos\WebService.ASMX\WebService.ASMX\obj\Debug\WebService.ASMX.csprojResolveAssemblyReference.cache
+C:\Users\Awesome\source\repos\WebService.ASMX\WebService.ASMX\obj\Debug\WebService.ASMX.csproj.CoreCompileInputs.cache
+C:\Users\Awesome\source\repos\WebService.ASMX\WebService.ASMX\bin\WebService.ASMX.dll.config
+C:\Users\Awesome\source\repos\WebService.ASMX\WebService.ASMX\bin\WebService.ASMX.dll
+C:\Users\Awesome\source\repos\WebService.ASMX\WebService.ASMX\bin\WebService.ASMX.pdb
+C:\Users\Awesome\source\repos\WebService.ASMX\WebService.ASMX\bin\Data.dll
+C:\Users\Awesome\source\repos\WebService.ASMX\WebService.ASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Awesome\source\repos\WebService.ASMX\WebService.ASMX\bin\Data.pdb
+C:\Users\Awesome\source\repos\WebService.ASMX\WebService.ASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Awesome\source\repos\WebService.ASMX\WebService.ASMX\obj\Debug\WebService.ASMX.dll
+C:\Users\Awesome\source\repos\WebService.ASMX\WebService.ASMX\obj\Debug\WebService.ASMX.pdb

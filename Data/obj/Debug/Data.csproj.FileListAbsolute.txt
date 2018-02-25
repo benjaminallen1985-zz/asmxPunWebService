@@ -1,0 +1,11 @@
+D:\git\WebServices\Data\bin\Debug\Data.dll
+D:\git\WebServices\Data\bin\Debug\Data.pdb
+D:\git\WebServices\Data\obj\Debug\Data.dll
+D:\git\WebServices\Data\obj\Debug\Data.pdb
+D:\git\WebServices\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Awesome\source\repos\WebService.ASMX\Data\bin\Debug\Data.dll
+C:\Users\Awesome\source\repos\WebService.ASMX\Data\bin\Debug\Data.pdb
+C:\Users\Awesome\source\repos\WebService.ASMX\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Awesome\source\repos\WebService.ASMX\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Awesome\source\repos\WebService.ASMX\Data\obj\Debug\Data.dll
+C:\Users\Awesome\source\repos\WebService.ASMX\Data\obj\Debug\Data.pdb

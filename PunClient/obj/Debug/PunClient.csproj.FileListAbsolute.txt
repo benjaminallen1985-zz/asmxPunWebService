@@ -1,0 +1,13 @@
+D:\git\WebServices\PunClient\bin\Debug\PunClient.exe.config
+D:\git\WebServices\PunClient\bin\Debug\PunClient.exe
+D:\git\WebServices\PunClient\bin\Debug\PunClient.pdb
+D:\git\WebServices\PunClient\obj\Debug\PunClient.exe
+D:\git\WebServices\PunClient\obj\Debug\PunClient.pdb
+D:\git\WebServices\PunClient\obj\Debug\PunClient.csprojResolveAssemblyReference.cache
+C:\Users\Awesome\source\repos\WebService.ASMX\PunClient\bin\Debug\PunClient.exe.config
+C:\Users\Awesome\source\repos\WebService.ASMX\PunClient\bin\Debug\PunClient.exe
+C:\Users\Awesome\source\repos\WebService.ASMX\PunClient\bin\Debug\PunClient.pdb
+C:\Users\Awesome\source\repos\WebService.ASMX\PunClient\obj\Debug\PunClient.csprojResolveAssemblyReference.cache
+C:\Users\Awesome\source\repos\WebService.ASMX\PunClient\obj\Debug\PunClient.csproj.CoreCompileInputs.cache
+C:\Users\Awesome\source\repos\WebService.ASMX\PunClient\obj\Debug\PunClient.exe
+C:\Users\Awesome\source\repos\WebService.ASMX\PunClient\obj\Debug\PunClient.pdb
